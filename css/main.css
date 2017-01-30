@@ -1,3 +1,27 @@
 header {
     background-color: orange;
+    margin-bottom: 40px;
+}
+
+body {
+    font-family: "Roboto", sans-serif;
+    color: darkgreen;
+}
+
+header h1 {
+    line-height: 1;
+    margin-bottom: 0;
+}
+
+header p {
+    margin-top: 0.5em;
+}
+
+.card {
+  border: 1px solid blue;
+  margin-bottom: 20px;
+}
+
+card-image {
+    width: 100%;
 }
